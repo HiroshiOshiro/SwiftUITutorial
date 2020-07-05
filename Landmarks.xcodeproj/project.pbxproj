@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		68C1350224B16FE10067847A /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68C1350124B16FE10067847A /* CircleImage.swift */; };
 		68ECF12B24AE284900F3BF34 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68ECF12A24AE284900F3BF34 /* AppDelegate.swift */; };
 		68ECF12D24AE284900F3BF34 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68ECF12C24AE284900F3BF34 /* SceneDelegate.swift */; };
 		68ECF12F24AE284900F3BF34 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68ECF12E24AE284900F3BF34 /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		68C1350124B16FE10067847A /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		68ECF12724AE284800F3BF34 /* Landmarks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Landmarks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		68ECF12A24AE284900F3BF34 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		68ECF12C24AE284900F3BF34 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				68ECF12A24AE284900F3BF34 /* AppDelegate.swift */,
 				68ECF12C24AE284900F3BF34 /* SceneDelegate.swift */,
 				68ECF12E24AE284900F3BF34 /* ContentView.swift */,
+				68C1350124B16FE10067847A /* CircleImage.swift */,
 				68ECF13024AE287900F3BF34 /* Assets.xcassets */,
 				68ECF13524AE287900F3BF34 /* LaunchScreen.storyboard */,
 				68ECF13824AE287900F3BF34 /* Info.plist */,
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				68ECF12B24AE284900F3BF34 /* AppDelegate.swift in Sources */,
+				68C1350224B16FE10067847A /* CircleImage.swift in Sources */,
 				68ECF12D24AE284900F3BF34 /* SceneDelegate.swift in Sources */,
 				68ECF12F24AE284900F3BF34 /* ContentView.swift in Sources */,
 			);
